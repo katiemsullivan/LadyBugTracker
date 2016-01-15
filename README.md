@@ -1,1 +1,1 @@
-Welcome to our LadyBug Tracker. A simple tracking system for all your defects!
+Welcome to our LadyBug Tracker. A simple tracking system for all your bug tickets!
